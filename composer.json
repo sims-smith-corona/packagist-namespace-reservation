@@ -1,6 +1,6 @@
 {
-    "name": "SmithCorona/NamespaceReservation",
-    "description": "An project meant to claim the SmithCorona namespace.",
+    "name": "smith-corona/namespace-reservation",
+    "description": "An project meant to claim the smith-corona namespace.",
     "require": {
     },
     "suggest": {
